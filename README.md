@@ -30,9 +30,7 @@ This project demonstrates:
 
 ## ⚙️ Formula Used
 
-\[
-\text{BMI} = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
-\]
+BMI = kg/m^2
 
 **Classification:**
 | Category | Male BMI Range | Female BMI Range |
