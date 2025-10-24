@@ -2,15 +2,12 @@
 
 BMI or Body Mass Index project
 
-## Getting Started
+## Demo Image
 
-This project is a starting point for a Flutter application.
+![demo_1.jpg](assets/demo_1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+BMI untuk Laki-Laki
+![demo_2.jpg](assets/demo_2.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+BMI untuk perempuan
+![demo_3.jpg](assets/demo_3.jpg)
